@@ -22,7 +22,7 @@ body {
   background-color: #1e90ff;
   color: black;
 }
-.name {
+h1 {
   color: white;
   text-align: center;
   font-family: 'Fira Sans', sans-serif;
